@@ -1,4 +1,4 @@
 # my-demo
 This is my first repository.
 <br>
-Author - Ellur Mouneesh
+Author - Ellur Mouneesh [jai balayya]
